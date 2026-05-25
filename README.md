@@ -75,7 +75,7 @@ Rating and review distribution
 
 ![Dashboard Home](https://github.com/abhishek1303r-dev/End-to-End-E-Commerce-Analytics-Dashboard/blob/main/HOME%20PAGE.png)
 
-![Product Analysis](images/product_analysis.png)
+![Product Analysis](https://github.com/abhishek1303r-dev/End-to-End-E-Commerce-Analytics-Dashboard/blob/main/PRODUCT%20ANALYSIS.png)
 
 ![Customer Insights](images/customer_insights.png)
 
