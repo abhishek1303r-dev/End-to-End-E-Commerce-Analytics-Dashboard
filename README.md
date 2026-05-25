@@ -77,7 +77,11 @@ Rating and review distribution
 
 ![Product Analysis](https://github.com/abhishek1303r-dev/End-to-End-E-Commerce-Analytics-Dashboard/blob/main/PRODUCT%20ANALYSIS.png)
 
-![Customer Insights](https://github.com/abhishek1303r-dev/End-to-End-E-Commerce-Analytics-Dashboard/blob/main/PRODUCT%20ANALYSIS.png)
+![Customer Insights](https://github.com/abhishek1303r-dev/End-to-End-E-Commerce-Analytics-Dashboard/blob/main/CUSTOMER%20INSIGHTS.png)
+
+![CATEGORY INSIGHTS](https://github.com/abhishek1303r-dev/End-to-End-E-Commerce-Analytics-Dashboard/blob/main/CUSTOMER%20INSIGHTS.png)
+
+![PRICING ANALYSIS](https://github.com/abhishek1303r-dev/End-to-End-E-Commerce-Analytics-Dashboard/blob/main/CUSTOMER%20INSIGHTS.png)
 
 7. Key Learnings
 End-to-end data analytics workflow
