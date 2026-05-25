@@ -73,7 +73,7 @@ Rating and review distribution
 📸 Dashboard Preview
 
 
-![Dashboard Home](images/home_dashboard.png)
+![Dashboard Home](https://github.com/abhishek1303r-dev/End-to-End-E-Commerce-Analytics-Dashboard/blob/main/HOME%20PAGE.png)
 
 ![Product Analysis](images/product_analysis.png)
 
